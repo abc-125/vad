@@ -25,8 +25,21 @@ vad
 ![](images/defects.png)
 
 VAD consists of one class with predefined training and testing sets. The training set contains 1000 bad and 2000 good images, and the testing set contains 1000 bad, 165 of them are unseen defects, and 1000 good images. Unseen defects in the test dataset refer to several rare defect types that are not present in the training data. 
-Contains 20+ types of defects, see Appendix C of the paper for details.
+Contains 20+ types of defects, see Appendix C of the [paper](https://arxiv.org/abs/2405.04953) for details.
 
 ## License
 VAD is released under [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+## Citation
+Please cite this paper if you find our dataset useful:
+
+```
+@misc{baitieva2024supervised,
+      title={Supervised Anomaly Detection for Complex Industrial Images}, 
+      author={Aimira Baitieva and David Hurych and Victor Besnier and Olivier Bernard},
+      year={2024},
+      eprint={2405.04953},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```

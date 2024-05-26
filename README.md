@@ -1,4 +1,3 @@
-# Work in progress
 # Valeo Anomaly Dataset (VAD)
 All images in VAD are captured from an actual production line, showcasing a diverse range of defects, from highly obvious to extremely subtle. This dataset bridges the gap between the academic community and the industry, offering researchers the chance to advance the performance of methods in tackling more intricate real-world  challenges.
 

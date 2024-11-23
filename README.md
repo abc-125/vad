@@ -33,12 +33,10 @@ VAD is released under [CC BY-NC-SA 4.0 license](https://creativecommons.org/lice
 Please cite this paper if you find our dataset useful:
 
 ```
-@misc{baitieva2024supervised,
+@inproceedings{baitieva2024supervised,
       title={Supervised Anomaly Detection for Complex Industrial Images}, 
       author={Aimira Baitieva and David Hurych and Victor Besnier and Olivier Bernard},
-      year={2024},
-      eprint={2405.04953},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle={CVPR},
+      year={2024} 
 }
 ```
